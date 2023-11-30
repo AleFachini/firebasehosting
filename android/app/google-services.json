@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326324387146",
+    "project_id": "fir-hostingwebtest",
+    "storage_bucket": "fir-hostingwebtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326324387146:android:4a708b4093ee65fd9755b3",
+        "android_client_info": {
+          "package_name": "com.example.firebasehosting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFq1JoKZwGdqFXO6O6qoKcxSZtoqGuH5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
